@@ -1,4 +1,5 @@
 # Oscars 2017 - Tweets database
+**Author: Igor Tannus Correa**
 
 Database containing tweets published between Jan 24th-Feb 25th, 2017 related to the movies nominated to Best Picture on the 2017 Academy Awards.
 
@@ -19,4 +20,4 @@ The data was used to write the paper "Sentiment analysis of tweets related to th
 
 You can [read it](https://igoortc.github.io/research) (in Portuguese) and understand how I used the database in my paper.
 
-**If you use any part of this database, please cite the paper! :)**
+**If you use any part of this database, please cite the paper! :stuck_out_tongue:**
