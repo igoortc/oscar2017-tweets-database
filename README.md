@@ -2,7 +2,7 @@
 
 Database containing tweets published between Jan 24th-Feb 25th, 2017 related to the movies nominated to Best Picture on the 2017 Academy Awards.
 
-The movies are: *Arrival*, *Fences*, *Hacksaw Ridge*, *Hell or High Water*, *Hidden Figures*, *La La Land*, *Lion*, *Manchester by the Sea* and *Moonlight*.
+The movies are: *Arrival*, *Fences*, *Hacksaw Ridge*, *Hell or High Water*, *Hidden Figures*, *La La Land*, *Lion*, *Manchester by the Sea*, and *Moonlight*.
 
 The database is available in four different formats:
 
