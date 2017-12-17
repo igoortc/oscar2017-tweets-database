@@ -17,4 +17,5 @@ I used the tool GetOldTweets (https://github.com/Jefferson-Henrique/GetOldTweets
 The data was used to write the paper "Sentiment analysis of tweets related to the movies nominated for the 2017 Academy Awards".
 
 You can read it in https://igoortc.github.io/research (in Portuguese) and understand how I used the database in my paper.
+
 **If you use any part of this database, please cite the paper! :)**
