@@ -18,6 +18,6 @@ The database is available in four different formats:
 I used the tool [GetOldTweets](https://github.com/Jefferson-Henrique/GetOldTweets-python) to collect the tweets, and the data collected was classified using different classifiers. 
 The data was used to write the paper "Sentiment analysis of tweets related to the movies nominated for the 2017 Academy Awards".
 
-You can [read it](https://igoortc.github.io/research) (in Portuguese) and understand how I used the database in my paper.
+You can [read it](https://igoortc.github.io/research) (in Portuguese or English) and understand how I used the database in my paper.
 
 **If you use any part of this database, please cite the paper! :stuck_out_tongue:**
